@@ -1,6 +1,6 @@
 <h1 align="center"> Tela onboarding compass </h1>
 <h4 align="center"> 
-    :White Heavy Check Mark:  Projeto em finalizado  :White Heavy Check Mark:
+    :U+2705:  Projeto em finalizado  :U+2705:
 </h4>
 
 ## :hammer: Funcionalidades do projeto
