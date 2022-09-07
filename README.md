@@ -7,7 +7,7 @@ Projeto em finalizado
 
 - `Funcionalidade 1`: Passagem de tela
 - `Funcionalidade 2`: Botões de continuidade
-- `Funcionalidade 4`: Responsividade
+- `Funcionalidade 3`: Responsividade
 
 ## :desktop_computer: Técnicas e tecnologias utilizadas no projeto
 
