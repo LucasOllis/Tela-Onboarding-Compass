@@ -14,7 +14,7 @@ Projeto em finalizado
 - `HTML`
 - `CSS`
 
-Meu entendimento: O projeto em si foi bem básico, reforça conceitos fundamentais para o domínio do html&css e mostra uma estilização simples porém funcional para a finalidade do projeto
+Meu entendimento: O projeto em si foi bem básico, reforça conceitos fundamentais para o domínio do html&css e mostra uma estilização simples porém funcional para a finalidade do projeto.
 
 
 
